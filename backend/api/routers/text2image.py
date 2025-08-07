@@ -72,7 +72,7 @@ async def t2i_service(inputs: T2IInput) ->T2IOutput:
         )
 
     try:
-        result = await text2image_model.process(
+        result = text2image_model.process(
             Text2ImageInput(
                 prompt=inputs.prompt
             )
