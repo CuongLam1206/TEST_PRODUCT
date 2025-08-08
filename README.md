@@ -39,7 +39,7 @@ This project implements a full-stack application featuring:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd Chatbot_RAG
+   cd HIT_LungTung
    ```
 
 2. Set up environment variables:
