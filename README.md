@@ -53,6 +53,9 @@ This project implements a full-stack application featuring:
    T2I__LORA_WEIGHTS='shared/weights'
 
    ```
+3. Setup Model Files
+- Create a folder named `weights` inside the folder: backend\shared
+- Download the model file from this Google Drive link: https://drive.google.com/file/d/1xrItYfDMEhbO3C2FTOrXF6e0nVHQleLc/view?usp=drive_link
 
 3. Start the application using docker compose:
     ```
@@ -83,13 +86,7 @@ This project implements a full-stack application featuring:
 
 ## 💻 Usage
 
-1. Setup Model Files
+Once the application is running:
 
-- Create a folder named weights inside the folder: E:\TEST_PRODUCT\backend\shared
-- Download the model file from this Google Drive link: https://drive.google.com/file/d/1xrItYfDMEhbO3C2FTOrXF6e0nVHQleLc/view?usp=drive_link
-
-2. Once the application is running:
-
-- Access the frontend at: http://localhost:8080
-- The backend API is available at: http://localhost:8000
-
+1. Access the frontend at: http://localhost:8080
+2. The backend API is available at: http://localhost:8000
