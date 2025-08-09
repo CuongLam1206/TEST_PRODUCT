@@ -77,7 +77,7 @@ This project implements a full-stack application featuring:
 │   ├── __init__.py                 # Package initializer for frontend (can be empty)
 │   ├── index.html                  # Main web interface file of the frontend
 │   └── Logo.png                    # Logo image used in frontend or displayed on UI
-├── .dockerignore                  # Docker ignore file
+├── .dockerignore                   # Docker ignore file
 ├── docker-compose.yml              # Docker Compose config for orchestrating services
 ├── pyproject.toml                  # Python project configuration file
 └── README.md                       # Project documentation
