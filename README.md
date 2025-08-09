@@ -57,10 +57,6 @@ This project implements a full-stack application featuring:
 - Create a folder named `weights` inside the folder: backend\shared
 - Download the model file from this Google Drive link: https://drive.google.com/file/d/1xrItYfDMEhbO3C2FTOrXF6e0nVHQleLc/view?usp=drive_link
 
-3. Start the application using docker compose:
-    ```
-    docker compose up --build
-    ```
 ## 🏗️ Project Structure
 ```
 ├── backend                         # Backend FastAPI application
@@ -90,3 +86,4 @@ Once the application is running:
 
 1. Access the frontend at: http://localhost:8080
 2. The backend API is available at: http://localhost:8000
+
