@@ -74,7 +74,7 @@ This project implements a full-stack application featuring:
 │   ├── __init__.py                 # Package initializer for frontend (can be empty)
 │   ├── index.html                  # Main web interface file of the frontend
 │   └── Logo.png                    # Logo image used in frontend or displayed on UI
-├── R.dockerignore                  # Docker ignore file
+├── .dockerignore                  # Docker ignore file
 ├── docker-compose.yml              # Docker Compose config for orchestrating services
 ├── pyproject.toml                  # Python project configuration file
 └── README.md                       # Project documentation
@@ -92,3 +92,4 @@ This project implements a full-stack application featuring:
 
 - Access the frontend at: http://localhost:8080
 - The backend API is available at: http://localhost:8000
+
